@@ -1,0 +1,8 @@
+C:\Data\GitHub\CS107.3-22.2\Lab 3\# Tutorial 3 Q3\bin\Debug\# Tutorial 3 Q3.exe.config
+C:\Data\GitHub\CS107.3-22.2\Lab 3\# Tutorial 3 Q3\bin\Debug\# Tutorial 3 Q3.exe
+C:\Data\GitHub\CS107.3-22.2\Lab 3\# Tutorial 3 Q3\bin\Debug\# Tutorial 3 Q3.pdb
+C:\Data\GitHub\CS107.3-22.2\Lab 3\# Tutorial 3 Q3\obj\Debug\# Tutorial 3 Q3.csproj.AssemblyReference.cache
+C:\Data\GitHub\CS107.3-22.2\Lab 3\# Tutorial 3 Q3\obj\Debug\# Tutorial 3 Q3.csproj.SuggestedBindingRedirects.cache
+C:\Data\GitHub\CS107.3-22.2\Lab 3\# Tutorial 3 Q3\obj\Debug\# Tutorial 3 Q3.csproj.CoreCompileInputs.cache
+C:\Data\GitHub\CS107.3-22.2\Lab 3\# Tutorial 3 Q3\obj\Debug\# Tutorial 3 Q3.exe
+C:\Data\GitHub\CS107.3-22.2\Lab 3\# Tutorial 3 Q3\obj\Debug\# Tutorial 3 Q3.pdb

@@ -1,0 +1,8 @@
+C:\Data\GitHub\CS107.3-22.2\Lab 5\# Tutorial 5 Q2\obj\Debug\# Tutorial 5 Q2.csproj.AssemblyReference.cache
+C:\Data\GitHub\CS107.3-22.2\Lab 5\# Tutorial 5 Q2\obj\Debug\# Tutorial 5 Q2.csproj.SuggestedBindingRedirects.cache
+C:\Data\GitHub\CS107.3-22.2\Lab 5\# Tutorial 5 Q2\obj\Debug\# Tutorial 5 Q2.csproj.CoreCompileInputs.cache
+C:\Data\GitHub\CS107.3-22.2\Lab 5\# Tutorial 5 Q2\bin\Debug\# Tutorial 5 Q2.exe.config
+C:\Data\GitHub\CS107.3-22.2\Lab 5\# Tutorial 5 Q2\bin\Debug\# Tutorial 5 Q2.exe
+C:\Data\GitHub\CS107.3-22.2\Lab 5\# Tutorial 5 Q2\bin\Debug\# Tutorial 5 Q2.pdb
+C:\Data\GitHub\CS107.3-22.2\Lab 5\# Tutorial 5 Q2\obj\Debug\# Tutorial 5 Q2.exe
+C:\Data\GitHub\CS107.3-22.2\Lab 5\# Tutorial 5 Q2\obj\Debug\# Tutorial 5 Q2.pdb
