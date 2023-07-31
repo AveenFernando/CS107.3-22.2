@@ -1,0 +1,8 @@
+C:\Data\GitHub\CS107.3-22.2\Lab 2\# Tutorial 2 Q4\bin\Debug\# Tutorial 2 Q4.exe.config
+C:\Data\GitHub\CS107.3-22.2\Lab 2\# Tutorial 2 Q4\bin\Debug\# Tutorial 2 Q4.exe
+C:\Data\GitHub\CS107.3-22.2\Lab 2\# Tutorial 2 Q4\bin\Debug\# Tutorial 2 Q4.pdb
+C:\Data\GitHub\CS107.3-22.2\Lab 2\# Tutorial 2 Q4\obj\Debug\# Tutorial 2 Q4.csproj.AssemblyReference.cache
+C:\Data\GitHub\CS107.3-22.2\Lab 2\# Tutorial 2 Q4\obj\Debug\# Tutorial 2 Q4.csproj.SuggestedBindingRedirects.cache
+C:\Data\GitHub\CS107.3-22.2\Lab 2\# Tutorial 2 Q4\obj\Debug\# Tutorial 2 Q4.csproj.CoreCompileInputs.cache
+C:\Data\GitHub\CS107.3-22.2\Lab 2\# Tutorial 2 Q4\obj\Debug\# Tutorial 2 Q4.exe
+C:\Data\GitHub\CS107.3-22.2\Lab 2\# Tutorial 2 Q4\obj\Debug\# Tutorial 2 Q4.pdb
