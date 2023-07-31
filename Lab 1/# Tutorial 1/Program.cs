@@ -14,7 +14,7 @@ namespace __Tutorial_1
                 string name = Console.ReadLine();
                 Console.WriteLine("Input your batch :");
                 double batch = double.Parse(Console.ReadLine());
-            Console.WriteLine("");
+                Console.WriteLine("");
                 Console.WriteLine("Name : " + name);
                 Console.WriteLine("Batch : " + batch);
 

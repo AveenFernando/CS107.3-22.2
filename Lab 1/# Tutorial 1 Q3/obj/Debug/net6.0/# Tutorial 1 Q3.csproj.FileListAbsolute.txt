@@ -1,0 +1,15 @@
+C:\Data\GitHub\CS107.3-22.2\Lab 1\# Tutorial 1 Q3\bin\Debug\net6.0\# Tutorial 1 Q3.exe
+C:\Data\GitHub\CS107.3-22.2\Lab 1\# Tutorial 1 Q3\bin\Debug\net6.0\# Tutorial 1 Q3.deps.json
+C:\Data\GitHub\CS107.3-22.2\Lab 1\# Tutorial 1 Q3\bin\Debug\net6.0\# Tutorial 1 Q3.runtimeconfig.json
+C:\Data\GitHub\CS107.3-22.2\Lab 1\# Tutorial 1 Q3\bin\Debug\net6.0\# Tutorial 1 Q3.dll
+C:\Data\GitHub\CS107.3-22.2\Lab 1\# Tutorial 1 Q3\bin\Debug\net6.0\# Tutorial 1 Q3.pdb
+C:\Data\GitHub\CS107.3-22.2\Lab 1\# Tutorial 1 Q3\obj\Debug\net6.0\# Tutorial 1 Q3.csproj.AssemblyReference.cache
+C:\Data\GitHub\CS107.3-22.2\Lab 1\# Tutorial 1 Q3\obj\Debug\net6.0\# Tutorial 1 Q3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\GitHub\CS107.3-22.2\Lab 1\# Tutorial 1 Q3\obj\Debug\net6.0\# Tutorial 1 Q3.AssemblyInfoInputs.cache
+C:\Data\GitHub\CS107.3-22.2\Lab 1\# Tutorial 1 Q3\obj\Debug\net6.0\# Tutorial 1 Q3.AssemblyInfo.cs
+C:\Data\GitHub\CS107.3-22.2\Lab 1\# Tutorial 1 Q3\obj\Debug\net6.0\# Tutorial 1 Q3.csproj.CoreCompileInputs.cache
+C:\Data\GitHub\CS107.3-22.2\Lab 1\# Tutorial 1 Q3\obj\Debug\net6.0\# Tutorial 1 Q3.dll
+C:\Data\GitHub\CS107.3-22.2\Lab 1\# Tutorial 1 Q3\obj\Debug\net6.0\refint\# Tutorial 1 Q3.dll
+C:\Data\GitHub\CS107.3-22.2\Lab 1\# Tutorial 1 Q3\obj\Debug\net6.0\# Tutorial 1 Q3.pdb
+C:\Data\GitHub\CS107.3-22.2\Lab 1\# Tutorial 1 Q3\obj\Debug\net6.0\# Tutorial 1 Q3.genruntimeconfig.cache
+C:\Data\GitHub\CS107.3-22.2\Lab 1\# Tutorial 1 Q3\obj\Debug\net6.0\ref\# Tutorial 1 Q3.dll
